@@ -7,3 +7,7 @@ part played (nice for drum part visualizations). Requirements:
 
 - Irrlicht
 - IrrKlang
+
+A small demo:
+
+[![demo](https://img.youtube.com/vi/8amulG4VjWU/0.jpg)](https://www.youtube.com/watch?v=8amulG4VjWU)
